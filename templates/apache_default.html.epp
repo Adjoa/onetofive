@@ -1,0 +1,5 @@
+<%- | String  $vhost | -%>i
+<!DOCTYPE html>
+<html>
+Hello, <%= $vhost %>.example.com!
+</html>
